@@ -191,6 +191,8 @@ textarea {
     float: right;
     vertical-align: middle;
     margin-right: 5px;
+    z-index:10;
+    position:relative;
   }
 
   /* Class Menu*/
@@ -402,14 +404,16 @@ textarea {
     padding-bottom: 10px;
     padding-left: 10px;
     padding-right: 10px;
+    z-index:0;
   }
 
   #mapa-petit iframe {
-    position: relative;
+    position: absolute;
     display: block;
     text-align: left;
     width: 30%;
     float: left;
+    z-index:0;
   }
 
   #qui-som-petit {
@@ -417,7 +421,7 @@ textarea {
     display: block;
     text-align: left;
     width: 70%;
-    float: left;
+    float:left;
   }
 
   /* Destacats */
