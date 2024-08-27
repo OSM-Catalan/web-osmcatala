@@ -266,6 +266,8 @@ textarea {
     color: #696969;
     font-weight: 300;
     line-height: 2.25em;
+    margin-left: 10px;
+    margin-right: 10px;
   }
 
   input,
