@@ -90,6 +90,11 @@ video {
   vertical-align: baseline;
 }
 
+main {
+margin-left: 10px;
+margin-right: 10px;
+}
+
 article,
 aside,
 details,
