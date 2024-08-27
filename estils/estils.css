@@ -120,16 +120,6 @@ ul {
   list-style: none;
 }
 
-body p{
-  margin-left: 5px;
-  margin-right: 5px;
-}
-
-body ul{
-  margin-left: 5px;
-  margin-right: 5px;
-}
-
 blockquote,
 q {
   quotes: none;
@@ -421,7 +411,7 @@ textarea {
   ol,
   dl,
   table {
-    margin-bottom: 2em;
+    margin-bottom: 1em;
     margin-left: 5px;
     margin-right: 5px;
   }
@@ -1191,7 +1181,7 @@ textarea {
   ol,
   dl,
   table {
-    margin-bottom: 2em;
+    margin-bottom: 1em;
   }
 
   /* Banner */
